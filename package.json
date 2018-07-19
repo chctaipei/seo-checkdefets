@@ -1,0 +1,27 @@
+{
+  "name": "seo-checkdefets",
+  "version": "1.0.0",
+  "description": "check defets for SEO",
+  "main": "lib/checkdefets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chctaipei/seo-checkdefets.git"
+  },
+  "keywords": [
+    "seo",
+    "html"
+  ],
+  "dependencies": {
+    "jsdom": "^11.11.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chctaipei/seo-checkdefets/issues"
+  },
+  "homepage": "https://github.com/chctaipei/seo-checkdefets#readme",
+  "devDependencies": {}
+}
